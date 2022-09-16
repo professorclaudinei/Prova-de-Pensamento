@@ -3,9 +3,9 @@ body {
    }
     
    .titulo-principal {
-       padding-left: 40px;
+       padding-left: 35px;
        width: 80%;
-       text-align: Right;
+       text-align: left;
        font-size: 50px;
        color: #8B008B;
    }

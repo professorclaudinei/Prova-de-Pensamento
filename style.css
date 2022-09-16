@@ -14,15 +14,12 @@ padding: 30px;
 	color: blue;
 	text-align: left;
 }
-p {
-	text-align: left;
-}
 
 ul {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
 	margin-right: 15%;
-
+	background: #CC25cC;
 }
 

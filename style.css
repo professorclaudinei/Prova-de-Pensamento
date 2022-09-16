@@ -12,6 +12,11 @@ padding: 30px;
 	color: blue;
 	text-align: left;
 }
+.titulo-centralizado{
+	padding-left: 20px;
+	color: blue;
+	text-align: left;
+}
 
 ul {
 	display: inline-block;

@@ -12,15 +12,10 @@ padding: 30px;
 }
 .titulo-centralizado {
 	color: blue;
-	text-align: center
+	text-align: left;
 }
 p {
-	text-align: center;
-}
-
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
+	text-align: left;
 }
 
 ul {

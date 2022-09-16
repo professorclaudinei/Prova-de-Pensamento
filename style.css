@@ -18,10 +18,12 @@ padding: 30px;
     background-color: #ADFF2F;
     text-align: justify;
     padding: 20px;
+}	
+.titulo-terciario{
+    background-color: #ADFF2F;
+    text-align: justify;
+    padding: 20px;
 	
-.<h2 class="titulo-secundario">Aluno: Claudinei</h2>
-}
-
 ul {
 	display: inline-block;
 	vertical-align: top;

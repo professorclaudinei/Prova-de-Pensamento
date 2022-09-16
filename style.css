@@ -9,9 +9,9 @@ body {
        font-size: 50px;
        color: #8B008B;
    }
-   < div  class =" fundo1 " >
+   
    . fundo1 {
-background: #E6E6FA;
+	background: #E6E6FA;
 	padding: 10px;
 	text-align: left;
 }

@@ -11,6 +11,7 @@ body {
 }
 
 .disciplinas {
+	display: inline-block;
 	background: #E6E6FA;
 	padding: 10px;
 	text-align: left;

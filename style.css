@@ -12,8 +12,9 @@ body {
 
 .disciplinas {
 	background: #E6E6FA;
-	padding: 100px;
+	padding: 10px;
 	text-align: left;
+	width: 100%;
 }
 
 .turmas {

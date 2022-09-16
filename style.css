@@ -15,9 +15,10 @@ padding: 30px;
 	text-align: left
 }
 .titulo-secundario{
-	padding-left: 20px;
-	color: red;
-	text-align: left
+    color: red;
+    background-color: rgb(234, 218, 234);
+    text-align: justify;
+    padding: 20px;
 }
 
 ul {

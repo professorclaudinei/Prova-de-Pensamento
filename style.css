@@ -10,9 +10,8 @@ body {
        color: #8B008B;
    }
    
-   . fundo1 {
-	background: #E6E6FA;
-   	padding: 10px;
-    	text-align: left;
+  .disciplinas {
+    background: #E6E6FA;
+    padding: 10px;
+    text-align: left;
 }
- 

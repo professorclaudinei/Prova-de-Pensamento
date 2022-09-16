@@ -5,7 +5,7 @@ body {
    .titulo-principal {
        padding-left: 40px;
        width: 100%;
-       text-align: center;
+       text-align: Right;
        font-size: 60px;
        color: #8B008B;
    }

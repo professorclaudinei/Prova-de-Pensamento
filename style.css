@@ -10,9 +10,11 @@ body {
        color: #8B008B;
    }
    < div  class =" fundo1 " >
-    background: #E6E6FA;
+   . fundo1 {
+background: #E6E6FA;
 	padding: 10px;
 	text-align: left;
+}
  </ div class> 
             </ ol >
               </ div >
